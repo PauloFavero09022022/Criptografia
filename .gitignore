@@ -1,0 +1,25 @@
+# Arquivos compilados
+*.o
+*.out
+*.exe
+
+# Executáveis
+criptografia
+test_crypto
+
+# Arquivos de depuração
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Arquivos temporários
+*~
+*.swp
+*.swo
+.DS_Store
+
+# Editor e IDE
+.vscode/
+.idea/
+*.code-workspace
